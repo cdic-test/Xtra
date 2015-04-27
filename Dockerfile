@@ -1,1 +1,1 @@
-foo
+FROM fedora:latest
